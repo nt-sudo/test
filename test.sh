@@ -1,2 +1,2 @@
-logfile=/tmp/nttest/log.txt
+logfile=/tmp/.nttest/log.txt
 date >> $logfile
